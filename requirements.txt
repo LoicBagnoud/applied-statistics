@@ -1,0 +1,8 @@
+
+ipython
+ipykernel
+jupyterlab
+notebook
+numpy
+pandas
+scipy
